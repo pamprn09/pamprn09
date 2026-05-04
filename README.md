@@ -2,7 +2,6 @@
 
 I'm Pamela! A Web developer, probably just like you! Welcome!
  - 🔭 I work at @humanmade as a WordPress developer.
- - 🌱 I’m currently learning React and a little bit more about WordPress (always learning, right?)
  - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pamela-nascimento/?locale=en_US)
 
 
